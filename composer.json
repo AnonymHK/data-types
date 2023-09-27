@@ -1,8 +1,8 @@
 {
-  "name": "comely-io/data-types",
+  "name": "anonymhk/data-types",
   "description": "PHP data types",
   "type": "library",
-  "homepage": "https://github.com/comely-io/data-types",
+  "homepage": "https://github.com/anonymhk/data-types",
   "license": "MIT",
   "authors": [
     {
